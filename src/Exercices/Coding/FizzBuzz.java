@@ -1,4 +1,4 @@
-package Exercices.recapitulare;
+package Exercices.Coding;
 
 import java.util.Scanner;
 
